@@ -1,3 +1,7 @@
+include/secret.h
 .pio
 CMakeListsPrivate.txt
-cmake-build-*/ 
+cmake-build-*/
+.idea
+.vscode
+build
