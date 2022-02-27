@@ -54,10 +54,6 @@ void loop() {
     lcd1.setCursor(0, 0);
     lcd2.setCursor(0, 0);
 
-    lcd1.print("GPS connecting");
-
-    Serial.println("Connecting GPS");
-
     Serial.println();
 
     Serial.print("Connecting to WiFi ..");
